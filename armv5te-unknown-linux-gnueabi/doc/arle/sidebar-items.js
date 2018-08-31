@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["__nop","Generates an unspecified no-op instruction."],["__rsr","Reads a 32-bit system register"],["__rsrp","Reads a system register containing an address"],["__wsr","Writes a 32-bit system register"],["__wsrp","Writes a system register containing an address"]],"struct":[["APSR","Application Program Status Register"]]});
